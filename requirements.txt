@@ -1,0 +1,9 @@
+# Dependencies for ComfyUI Qwen-Image-Edit Pixel-Perfect
+#
+# NOTE: opencv-python is only required by the corrective-alignment node
+# (Align to Reference / ImageRegistrationAKAZE). The preventive-drift-free
+# nodes (PreCropToQwen, UpscaleToOriginal) and the mask-compositing nodes
+# have NO third-party dependency beyond what ComfyUI already provides
+# (torch, numpy).
+
+opencv-python
