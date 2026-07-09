@@ -60,7 +60,7 @@ ComfyUI-Manager からこのリポジトリを検索してインストール。
 ### 手動インストール
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/<your-account>/comfyui_qwen_edit_pixel_perfect.git
+git clone https://github.com/oron1208/comfyui_qwen_edit_pixel_perfect.git
 ```
 ComfyUI を再起動してください。
 
